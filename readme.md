@@ -1,3 +1,3 @@
 #########
-This is a test App for Clout Build
+This is a test App for Cloud Build
 #########
